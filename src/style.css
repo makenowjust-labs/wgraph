@@ -1,0 +1,23 @@
+html, body {
+  margin: auto;
+  padding: 0;
+  max-width: 1024px;
+}
+
+.hidden {
+  display: none;
+}
+
+.sticky-box {
+  padding: 0.45em;
+  position: sticky;
+  top: 0;
+  background: #fff;
+}
+
+.text {
+  font-size: 1.5em;
+  margin-top: 0.7em;
+  padding: 0.3em;
+  background: #ddd;
+}
